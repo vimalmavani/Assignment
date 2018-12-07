@@ -1,0 +1,12 @@
+@media screen and (max-width: 767px){
+	.slider-img{
+		height: 100%;
+		overflow: 210px;
+		max-height: 210px;
+	}
+	.slider-img img{
+		width: 100%;
+		min-height:210px;
+		max-height: 210px;
+	}
+}
